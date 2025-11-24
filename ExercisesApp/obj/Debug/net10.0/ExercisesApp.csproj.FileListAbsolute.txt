@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Csharp-from-scratch\ExercisesApp\bin\Debug\net10.0\ExercisesApp.exe
+C:\Users\User\Desktop\Csharp-from-scratch\ExercisesApp\bin\Debug\net10.0\ExercisesApp.deps.json
+C:\Users\User\Desktop\Csharp-from-scratch\ExercisesApp\bin\Debug\net10.0\ExercisesApp.runtimeconfig.json
+C:\Users\User\Desktop\Csharp-from-scratch\ExercisesApp\bin\Debug\net10.0\ExercisesApp.dll
+C:\Users\User\Desktop\Csharp-from-scratch\ExercisesApp\bin\Debug\net10.0\ExercisesApp.pdb
+C:\Users\User\Desktop\Csharp-from-scratch\ExercisesApp\obj\Debug\net10.0\ExercisesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Csharp-from-scratch\ExercisesApp\obj\Debug\net10.0\ExercisesApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Csharp-from-scratch\ExercisesApp\obj\Debug\net10.0\ExercisesApp.AssemblyInfo.cs
+C:\Users\User\Desktop\Csharp-from-scratch\ExercisesApp\obj\Debug\net10.0\ExercisesApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Csharp-from-scratch\ExercisesApp\obj\Debug\net10.0\ExercisesApp.dll
+C:\Users\User\Desktop\Csharp-from-scratch\ExercisesApp\obj\Debug\net10.0\refint\ExercisesApp.dll
+C:\Users\User\Desktop\Csharp-from-scratch\ExercisesApp\obj\Debug\net10.0\ExercisesApp.pdb
+C:\Users\User\Desktop\Csharp-from-scratch\ExercisesApp\obj\Debug\net10.0\ExercisesApp.genruntimeconfig.cache
+C:\Users\User\Desktop\Csharp-from-scratch\ExercisesApp\obj\Debug\net10.0\ref\ExercisesApp.dll
